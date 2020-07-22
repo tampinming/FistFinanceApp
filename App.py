@@ -1,11 +1,5 @@
-import pandas as pd
 import streamlit as str
-import mapbox as mb
-import numpy as np
-import yfinance as yf
-import matplotlib.pyplot as plt
 from yahoo_fin import stock_info as st
-import numpy as np
 import time
 
 done = False
